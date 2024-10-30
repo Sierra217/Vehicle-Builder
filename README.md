@@ -1,11 +1,11 @@
 # Vehicle-Builder
 
-##User Story
+## User Story
 AS a developer
 I WANT to update an existing application to include additional vehicle types
 SO THAT I am able to comprehend and work with existing code bases.
 
-##Acceptance Criteria
+## Acceptance Criteria
 GIVEN a command-line application that accepts user input
 WHEN I am prompted to create a new vehicle or existing vehicle
 THEN I can choose between the two options
@@ -23,3 +23,17 @@ WHEN I perform an action with a vehicle
 THEN I see the result of the action in the command-line
 WHEN I complete the process of performing an action
 THEN I can perform additional actions until I choose to exit
+
+Description
+Use this application to create a new vehicle or update an existing one.
+
+
+License
+MIT
+
+Tests
+Run npm start and answer prompts.
+
+Questions
+With any questions contact test@email.com
+https://github.com/Sierra217
